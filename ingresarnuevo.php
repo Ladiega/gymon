@@ -34,12 +34,5 @@ if($resultado){
     echo "La cagamos" .$conn->error;
 }
 
-xgdfgsd 
-
-
-//hgvhj,hgj 
-
-bhb
-
 
 ?>
