@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    
+    
+  }
+  html{
+      
+      height: 100%;
+      
+  }
+  body{
+     display: flex;
+     flex-direction: column;
+     height: 100%;
+  }
+
+
+
+  .nav{
+      
+
+  }
+  .main{
+    margin-top: 90px;  
+    background-color: rgb(250, 250, 163);
+  }
+
+
+  .footer{
+      margin-top: 10px;
+      
+  }
