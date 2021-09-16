@@ -40,6 +40,8 @@ if($resultado){
 
 jkhgjkhgj
 
+//No ENTIENDO !!!
+
 
 
 ?>
